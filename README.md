@@ -1,2 +1,6 @@
-# sinopia-github-oauth
-Sinopia authorization plugin with github oauth web flow
+# verdaccio-gatekeeper
+
+npm install --global verdaccio
+
+
+verdaccio

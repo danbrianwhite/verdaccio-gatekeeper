@@ -1,0 +1,21 @@
+{
+  "name": "verdaccio-gatekeeper",
+  "version": "1.0.0",
+  "description": "gatekeep NPM package versions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/soundtrackyourbrand/sinopia-github-oauth.git"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "keywords": [
+    "verdaccio",
+    "npm",
+    "gatekeeper",
+    "plugin"
+  ]
+}
